@@ -1,0 +1,29 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+target/
+bin/
+
+# Node/npm (if used)
+node_modules/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.env
+.env.local
+.env.*.local
+docker-compose.override.yml
+
+# Logs
+logs/
+*.log
